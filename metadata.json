@@ -1,0 +1,6 @@
+{
+  "name": "MediCare AI – Intelligent Hospital, Disease Prediction & Blood Connect Platform",
+  "description": "Predict Diseases Early. Connect with Doctors. Save Lives Through Blood Donation. Full-stack intelligent hospital platform with AI symptom triage, 17 doctor specialties, slot collision-free appointment booking, Blood Connect donor network, lab test bookings, and bilingual AI health assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
